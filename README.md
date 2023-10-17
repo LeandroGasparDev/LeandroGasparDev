@@ -2,13 +2,15 @@
 
 <h3>Contatos:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4/">
-  <img src="https://skillicons.dev/icons?i=linkedin" /> 
+  <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4/" >
+  <img src="https://skillicons.dev/icons?i=linkedin"/> 
+  </a>
 </p>
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&theme=tokyonight"/>
 </div>
+
 <h3>Sobre:</h3>
 
 <h4>👨‍💻 Programador Delphi Sênior | 10+ anos de experiência</h4>
