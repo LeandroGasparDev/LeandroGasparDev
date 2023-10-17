@@ -1,4 +1,4 @@
-<h1> Olá!, meu nome é Leandro Gaspar 👨🏻‍💻 </h1> 
+<h1> Leandro Gaspar 👨🏻‍💻👨‍💻 </h1> 
 
 <h3>Contato</h3>
   <p>
@@ -28,7 +28,6 @@
 
 <br/>
 <br/>
-
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&theme=tokyonight"/>
