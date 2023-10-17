@@ -1,3 +1,4 @@
+<style type="text/css">*{color:#000;}</style>
 <h1> Olá!, meu nome é Leandro Gaspar 👨🏻‍💻 </h1> 
 
 <h3>Contato</h3>
