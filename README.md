@@ -1,12 +1,11 @@
-<h1> Leandro Gaspar 👨🏻‍💻 </h1> 
+<h1> Olá!, meu nome é Leandro Gaspar 👨🏻‍💻 </h1> 
 
-<h3>Contatos: </h3>
- <p>Email: leandrogaspar2012@gmail.com</p>
+<h3>Contato</h3>
   <p>
     <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4/" >
-    <img src="https://skillicons.dev/icons?i=linkedin"/>  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>  
+  </a>
   </p>
-
 <br>
 
 <h3>Sobre:</h3>
@@ -29,6 +28,7 @@
 
 <br/>
 <br/>
+
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&theme=tokyonight"/>
