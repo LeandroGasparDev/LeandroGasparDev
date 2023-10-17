@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
+    <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   </a>
 </p>
 </div>
