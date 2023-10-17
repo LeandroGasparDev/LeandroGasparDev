@@ -24,8 +24,10 @@
    <img alt="html5" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">  
    <img alt="html5" src="https://firebirdsql.org/refdocs/images/firebirdlogo.png">  
    <img alt="html5" src="https://skillicons.dev/icons?i=postman"> 
-
 </p>	
+
+<br/>
+<br/>
 
 
 <div align="center">
