@@ -1,4 +1,4 @@
-<h1> Leandro Gaspar 👨🏻‍💻👨‍💻 </h1> 
+<h1> Leandro Gaspar 👨🏻‍💻 </h1> 
 
 <h3>Contato</h3>
   <p>
