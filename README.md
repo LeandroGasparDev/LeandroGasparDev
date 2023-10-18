@@ -1,6 +1,7 @@
-<h1> Olá!, meu nome é Leandro Gaspar 👨🏻‍💻 </h1> 
+<h2>Leandro Gaspar 👨🏻‍💻💻 </h2> 
 
 <h3>Contato</h3>
+  <p>Email: leandrogaspar2012@gmail.com</p>
   <p>
     <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4/" >
     <img src="https://skillicons.dev/icons?i=linkedin"/>  
