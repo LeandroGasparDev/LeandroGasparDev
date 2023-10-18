@@ -3,8 +3,11 @@
 <h3>Contato</h3>
   <p><b> Email: leandrogaspar2012@gmail.com</b></p>
   <p>
-    <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4/" >
-    <img src="https://skillicons.dev/icons?i=linkedin"/>  
+    <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4" >
+      <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
+      <a href="https://www.facebook.com/leandro.gaspar.3" >
+       <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   </a>
   </p>
 <br>
@@ -32,9 +35,9 @@
 <br/>
 <br/>
 
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/LeandroGasparDev/LeandroGasparDev/">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br/>
