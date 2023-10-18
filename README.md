@@ -4,11 +4,10 @@
   <p><b> Email: leandrogaspar2012@gmail.com</b></p>
   <p>
     <a href="https://www.linkedin.com/in/leandro-gaspar-3306abb4" >
-      <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          
+      <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> </a>        
       <a href="https://www.facebook.com/leandro.gaspar.3" >
-       <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-  </a>
+       <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/> </a>
+  
   </p>
 <br>
 
