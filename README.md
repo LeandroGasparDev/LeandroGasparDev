@@ -11,7 +11,7 @@
   </p>
 <br>
 
-<h3>Sobre:</h3>
+<h3>Sobre:</h3> 
   👨‍💻 Programador Delphi Sênior | 10+ anos de experiência
   <br/>
   🏢 Especializado em desenvolvimento de sistemas ERP
