@@ -13,7 +13,7 @@
   <br/>
   🏢 Especializado em desenvolvimento de sistemas ERP
   <br/>
-  📄 Experiente em documentos fiscais (NF-e, NFC-e, MDF-e, GNR-e) e emissão de boletos
+  📄 Experiencia com documentos fiscais (NF-e, NFC-e, NFS-e, MDF-e, GNR-e) e emissão de boletos
   <br/>
   🌐 Proficiente em integrações com API/Rest para otimização de processos
   <br/>
@@ -21,7 +21,7 @@
   <br/>
   <br/>
 
-<h3> Principais Tecnologias </h3>
+<h3>Principais Linguagens/Tecnologias</h3>
 <p> 
    <img alt="html5" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">  
    <img alt="html5" src="https://firebirdsql.org/refdocs/images/firebirdlogo.png">  
@@ -38,6 +38,6 @@
 
 <br/>
 
-<h3> Outras linguagens/tecnologias que estou estudando </h3>
+<h3> Outras Linguagens/Tecnologias que estou estudando </h3>
 <p> <img alt="html5" src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,powershell">  </p>	
 
