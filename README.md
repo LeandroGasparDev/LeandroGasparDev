@@ -10,12 +10,16 @@
 
 <h3>Sobre:</h3>
   👨‍💻 Programador Delphi Sênior | 10+ anos de experiência
+  <br/>
   🏢 Especializado em desenvolvimento de sistemas ERP
+  <br/>
   📄 Experiente em documentos fiscais (NF-e, NFC-e, MDF-e, GNR-e) e emissão de boletos
+  <br/>
   🌐 Proficiente em integrações com API/Rest para otimização de processos
+  <br/>
   📚 Apaixonado por aprendizado contínuo e compartilhamento de conhecimento
-
-<br/>
+  <br/>
+  <br/>
 
 <h3> Principais Tecnologias </h3>
 <p> 
