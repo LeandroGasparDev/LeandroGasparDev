@@ -26,9 +26,9 @@
 
 <h3>Principais Linguagens/Tecnologias</h3>
 <p> 
-   <img height="10%" width="15%" alt="html5" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">  
    <img width="5%" alt="html5" src="https://firebirdsql.org/refdocs/images/firebirdlogo.png">  
    <img width="5%" alt="html5" src="https://skillicons.dev/icons?i=postman"> 
+   <img height="10%" width="15%" alt="html5" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">  
 </p>	
 
 <br/>
