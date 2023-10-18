@@ -34,14 +34,15 @@
 <br/>
 <br/>
 
-<div>
+<div align="center">
   <a href="https://github.com/LeandroGasparDev/LeandroGasparDev/">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGasparDev&layout=compact&langs_count=7&theme=dracula"/> </a>
+<br/>
+<br/>
 <br/>
 
-<h3> Outras Linguagens/Tecnologias que estou estudando </h3>
+
+<h3 align="center"> Outras Linguagens/Tecnologias que estou estudando </h3>
 <div align="center">
   <p> <img alt="html5" src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,powershell">  </p>	
 </div>
