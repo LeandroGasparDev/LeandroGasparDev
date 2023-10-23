@@ -45,6 +45,6 @@
 
 <h3 align="center"> Outras Linguagens/Tecnologias que estou estudando </h3>
 <div align="center">
-  <p> <img alt="html5" src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,powershell">  </p>	
+  <p> <img alt="html5" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,powershell">  </p>	
 </div>
 
