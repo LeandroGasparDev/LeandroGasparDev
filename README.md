@@ -13,6 +13,7 @@
 
 <h3>Sobre:</h3> 
 Olá ! Me chamo Leandro!
+<br>
 
 👨‍💻 Sou um Programador Delphi Sênior com 12 anos de experiência em Desenvolvimento de Sistemas Delphi, tenho ampla experiência no desenvolvimento de sistemas ERP com foco em Gestão Empresarial.
 
@@ -31,6 +32,8 @@ Minhas habilidades incluem:
 📚 Aprendizado Contínuo: Apaixonado por aprender e compartilhar conhecimento para aprimorar minhas habilidades.
 
 🚀 Busco desafios empolgantes e colaborações que valorizem minha experiência. Meu objetivo é continuar entregando soluções de alta qualidade e expandir meu conhecimento em tecnologia. 💪
+<br>
+
 
 <h3>Principais Linguagens/Tecnologias</h3>
 <p> 
