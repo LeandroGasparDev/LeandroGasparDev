@@ -12,17 +12,25 @@
 <br>
 
 <h3>Sobre:</h3> 
-  👨‍💻 Programador Delphi Sênior | 10+ anos de experiência
-  <br/>
-  🏢 Especializado em desenvolvimento de sistemas ERP
-  <br/>
-  📄 Experiencia com documentos fiscais (NF-e, NFC-e, NFS-e, MDF-e, GNR-e) e emissão de boletos
-  <br/>
-  🌐 Proficiente em integrações com API/Rest para otimização de processos
-  <br/>
-  📚 Apaixonado por aprendizado contínuo e compartilhamento de conhecimento
-  <br/>
-  <br/>
+Olá ! Me chamo Leandro!
+
+👨‍💻 Sou um Programador Delphi Sênior com 12 anos de experiência em Desenvolvimento de Sistemas Delphi, tenho ampla experiência no desenvolvimento de sistemas ERP com foco em Gestão Empresarial.
+
+Minhas habilidades incluem:
+
+💻 Desenvolvimento Delphi: Especializado em Delphi, com experiência em várias versões, como 7, 2006, 2007, XE, XE2, Seattle 10, Alexandria.
+
+📃 Documentos Fiscais: Grande vivência no desenvolvimento de Documentos Fiscais, como NF-e, NFC-e, NFS-e, GNR-e, MDF-e, usando componentes da Tecnospeed e ACBr para garantir a conformidade fiscal.
+
+🌐 Integrações via API (HTTP/REST): Habilidades sólidas em integrações com plataformas externas via API/REST, como Mercos, PedidoOK, App Suas Vendas, TRAY (E-commerce), WhatsGW, Banco Inter, etc.
+
+🔥 Banco de Dados Firebird: Experiência no gerenciamento de Banco de Dados Firebird, incluindo consultas SQL, criação de views, triggers e procedures.
+
+🌟 Foco na Qualidade: Comprometido em entregar soluções de alta qualidade e satisfazer as necessidades dos clientes.
+
+📚 Aprendizado Contínuo: Apaixonado por aprender e compartilhar conhecimento para aprimorar minhas habilidades.
+
+🚀 Busco desafios empolgantes e colaborações que valorizem minha experiência. Meu objetivo é continuar entregando soluções de alta qualidade e expandir meu conhecimento em tecnologia. 💪
 
 <h3>Principais Linguagens/Tecnologias</h3>
 <p> 
